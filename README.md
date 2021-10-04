@@ -1,16 +1,2 @@
 # test-programming-logic
-
-
-Antes de iniciar, seguem algumas dicas importantes:
-● Utilize o PHP (sem frameworks), pois é a linguagem que utilizamos atualmente aqui no Bling;
-● Evite plágios - queremos ver o seu conteúdo! (e questões copiadas serão zeradas);
-● Nós lhe daremos um período de 7 dias (corridos) para devolução da atividade. Nossa
-expectativa é que você seja capaz de finalizá-lo em algumas poucas horas de trabalho
-dedicado. Não existe tempo bom ou tempo ruim, o importante é fazer da melhor forma
-possível. Por isso, pedimos que registre o tempo e nos informe na devolução do mesmo.
-Confiança é a chave do sucesso.
-● Você pode pesquisar, estudar, copiar e melhorar. O mais importante é que você seja capaz de
-explicar a solução e os caminhos escolhidos, pois se passar para a próxima fase, terá que
-defender sua solução junto com nosso time de técnicos.
-● Envie o teste no formato zip ou link para acesso ao repositório (GitHub, GitLab, etc)
-respondendo o e-mail.
+<br />Antes de iniciar, seguem algumas dicas importantes:<br />● Utilize o PHP (sem frameworks), pois &eacute; a linguagem que utilizamos atualmente aqui no Bling;<br />● Evite pl&aacute;gios - queremos ver o seu conte&uacute;do! (e quest&otilde;es copiadas ser&atilde;o zeradas);<br />● N&oacute;s lhe daremos um per&iacute;odo de 7 dias (corridos) para devolu&ccedil;&atilde;o da atividade. Nossa<br />expectativa &eacute; que voc&ecirc; seja capaz de finaliz&aacute;-lo em algumas poucas horas de trabalho<br />dedicado. N&atilde;o existe tempo bom ou tempo ruim, o importante &eacute; fazer da melhor forma<br />poss&iacute;vel. Por isso, pedimos que registre o tempo e nos informe na devolu&ccedil;&atilde;o do mesmo.<br />Confian&ccedil;a &eacute; a chave do sucesso.<br />● Voc&ecirc; pode pesquisar, estudar, copiar e melhorar. O mais importante &eacute; que voc&ecirc; seja capaz de<br />explicar a solu&ccedil;&atilde;o e os caminhos escolhidos, pois se passar para a pr&oacute;xima fase, ter&aacute; que<br />defender sua solu&ccedil;&atilde;o junto com nosso time de t&eacute;cnicos.<br />● Envie o teste no formato zip ou link para acesso ao reposit&oacute;rio (GitHub, GitLab, etc)<br />respondendo o e-mail.</h1>
