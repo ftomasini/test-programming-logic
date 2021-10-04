@@ -15,12 +15,9 @@
             integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ"
             crossorigin="anonymous"></script>
 
+
+    <title>Teste de lógica de programação!</title>
     <!-- Bootstrap CSS
-
-        <title>Teste de lógica de programação!</title>
-
-                <h1>Teste de lógica de programação</h1>
-
     -->
 
 </head>
@@ -30,7 +27,7 @@
         <div class="col col-lg-2">
         </div>
         <div class="col-md-auto">
-            <h1>Tw</h1>
+            <h1>Teste de lógica de programação</h1>
         </div>
         <div class="col col-lg-2">
         </div>
